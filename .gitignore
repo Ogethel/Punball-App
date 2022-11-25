@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Proto_PunBall/Intermediate/CachedAssetRegistry.bin
+
+Proto_PunBall/Saved/Config/CrashReportClient/UECC-Windows-2FE75A6F4997F36664A3818205539A54/CrashReportClient.ini
+
+Proto_PunBall/Saved/Config/CrashReportClient/UECC-Windows-51C4DA5541380B1E48855AA4EC137419/CrashReportClient.ini
+
+Proto_PunBall/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+
+Proto_PunBall/Saved/Config/WindowsEditor/Engine.ini
+
+Proto_PunBall/Saved/Logs/Proto_PunBall.log
